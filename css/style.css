@@ -127,7 +127,7 @@ a {
     background: #f23a2e; }
 
 .site-footer {
-  padding: 4em 0; }
+  padding: 4em 0 2em ; }
   .site-footer .footer-heading {
     font-size: 20px; }
   .site-footer a {
